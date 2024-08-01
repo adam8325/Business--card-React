@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: #23252C;
+}
+
+.info-section {
+  text-align: center;
+  padding: 20px;
+  height: 20%;
+}
+
+.Pb-img {  
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.info-name {
+  font-family: inter, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+.info-title {
+  font-family: inter, sans-serif;
+  font-size: 12.8px;
+  font-weight: regular;
+  color: #F3BF99;
+}
+
+.info-btns > button {
+  background: #F3BF99;
+  color: #23252C;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
