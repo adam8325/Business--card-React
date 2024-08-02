@@ -1,8 +1,19 @@
-# React + Vite
+# Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first project using React which contains a digital business card. It showcases personal information, including name, title, email, LinkedIn profile, and social media links. The project is styled using CSS and includes Font Awesome icons for social media links.
 
-Currently, two official plugins are available:
+## Check it out live
+You can view the live demo of this project [here](https://business-card-adam.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+- **CSS**: Used for styling the components.
+- **Font Awesome**: A library for scalable vector icons that can be customized with CSS.
+
+## Components
+
+- **Info**: Displays personal information such as name, title, email, and LinkedIn profile.
+- **About**: Provides a brief description about the me.
+- **Footer**: Contains social media links.
