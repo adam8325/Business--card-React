@@ -8,8 +8,8 @@ export default function Info () {
             <h1 className="info-name">Adam Eleraky</h1>
             <h4 className="info-title">Fullstack Developer</h4>
             <div className="info-btns">
-                <button>Email</button>
-                <button>LinkedIn</button>
+                <button className="email-btn">Email</button>
+                <button className="linkedin-btn">LinkedIn</button>
             </div>
             
         </div>
